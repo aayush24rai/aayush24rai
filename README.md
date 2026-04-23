@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush24rai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aayush24rai/aayush24rai/blob/main/RESUME_AAYUSH_RAI.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?logo=readthedocs&logoColor=white" /></a>
   <a href="mailto:aayush24rai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
